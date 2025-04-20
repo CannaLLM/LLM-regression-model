@@ -1,2 +1,2 @@
 # LLM-regression-model
-Pending
+LLM training practice 
